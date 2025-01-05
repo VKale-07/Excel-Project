@@ -41,11 +41,6 @@ Added a custom column to calculate the Load Factor using the formula:
 
 Load Factor = (Transported Passengers / Available Seats) * 100
 
-Visualization Filters (Slicers):
-
-Added slicers for fields like Class, Region, Year,Financial Quarter, Financial Month and Day Type to enhance interactivity.
-
-  # Load Factor Analysis Dashboard         
 - Step 5 : 
 Line Chart: Represents the load factor percentage on a yearly, quarterly, and monthly basis.
 
@@ -57,6 +52,22 @@ Donut Chart: Compares load factor utilization between weekends and weekdays.
 
 Some Cards Like Total seats, Total Passengers, Average Load factor, Total Distance.
 
+- Step 6: 
+Bar chart: Top 10 Carrier name by Passengers Preferences.
+
+Bar chart: Top Routes Based on No. of Flights.
+
+Bar chart: No. of Flights on Distance Groups.
+
+Bar chart: Flights by Region.
+
+
+Visualization Filters (Slicers):
+
+Added slicers for fields like Class, Region, Year,Financial Quarter, Financial Month, Distance group, Region, Class, Flight Type and Day Type to enhance interactivity.
+
+  # Load Factor Analysis Dashboard         
+  
 Snap of Load Factor Analysis Dashboard,
 
 ![LF_Dashboard](https://github.com/user-attachments/assets/b59b10cb-18a6-45ba-a150-683e580d1fc9)
@@ -98,14 +109,6 @@ Optimize flight schedules: By analyzing passenger demand patterns, the airline c
 Improve customer experience: Providing excellent customer service can lead to repeat business and higher load factors. The airline can focus on areas such as on-time performance, baggage handling, and customer support.
 
 # Flight Operations Dashboard
-- Step 6: 
-Bar chart: Top 10 Carrier name by Passengers Preferences.
-
-Bar chart: Top Routes Based on No. of Flights.
-
-Bar chart: No. of Flights on Distance Groups.
-
-Bar chart: Flights by Region.
 
 Snap of Flight Operations Dashboard,
 
