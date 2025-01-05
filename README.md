@@ -6,7 +6,7 @@
 
 This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through the Load Factor, they get to know their improvement area, & thus they can improve their services by identifying these area.  thus since by using this dashboard they have identified this problem, they can further work on those factors.
 
-Since, number of neutral/dissatisfied customers (almost 45 %) are more than satisfied customers (around 55 %), thus in all they should have to work more on improving their services for more customers satisfaction. 
+Since, With a high customer satisfaction rate of around 76.8%, the company is generally meeting customer expectations. However, there's still room for improvement as approximately 24% of customers are neutral or dissatisfied. 
 
 
 ### Steps followed 
@@ -63,7 +63,7 @@ Snap of Load Factor Analysis Dashboard,
 
 - Overall Load Factor:
 
-      The average load factor for the airline is 55%, which means that 55% of the seats available are occupied by passengers.
+      The load factor for the airline is 76.8%, which means that 76.8% of the seats available are occupied by passengers.
       This is a relatively high load factor, indicating that the airline is utilizing its aircraft efficiently.
 
 - Load Factor by Year, Quarter, and Month:
