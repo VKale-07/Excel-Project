@@ -46,16 +46,16 @@ Visualization Filters (Slicers):
 Added slicers for fields like Class, Region, Year,Financial Quarter, Financial Month and Day Type to enhance interactivity.
 
   # Load Factor Analysis Dashboard         
-- Step 5 : 
-Line Chart: Represents the load factor percentage on a yearly, quarterly, and monthly basis.
+Step 5 : 
+- Line Chart: Represents the load factor percentage on a yearly, quarterly, and monthly basis.
 
-Bar Chart  : Highlights the load factor percentage for each carrier, with Delta Airlines achieving the highest load factor of 20%.
+- Bar Chart  : Highlights the load factor percentage for each carrier, with Delta Airlines achieving the highest load factor of 20%.
 
-Year-over-Year (YoY) Change Bar Chart: Displays percentage changes in the load factor for comparative annual performance.
+- Year-over-Year (YoY) Change Bar Chart: Displays percentage changes in the load factor for comparative annual performance.
 
-Donut Chart: Compares load factor utilization between weekends and weekdays.
+- Donut Chart: Compares load factor utilization between weekends and weekdays.
 
-Some Cards Like Total seats, Total Passengers, Average Load factor, Total Distance.
+- Some Cards Like Total Seats, Total Passengers, Average Load factor, Total Distance.
 
 Snap of Load Factor Analysis Dashboard,
 
@@ -63,33 +63,33 @@ Snap of Load Factor Analysis Dashboard,
 
 # Insights
 
-Overall Load Factor:
+- Overall Load Factor:
 
-The average load factor for the airline is 55%, which means that 55% of the seats available are occupied by passengers.
-This is a relatively high load factor, indicating that the airline is utilizing its aircraft efficiently.
+      The average load factor for the airline is 55%, which means that 55% of the seats available are occupied by passengers.
+      This is a relatively high load factor, indicating that the airline is utilizing its aircraft efficiently.
 
-Load Factor by Year, Quarter, and Month:
+- Load Factor by Year, Quarter, and Month:
 
-The load factor fluctuates throughout the year, with higher values in certain Year.
-The highest load factor is in 2011 at 17.42%.
+      The load factor fluctuates throughout the year, with higher values in certain Year.
+      The highest load factor is in 2011 at 17.42%.
 
-Load Factor by Carrier:
+- Load Factor by Carrier:
 
-The dashboard shows the top carriers based on load factor.
-Delta Air Lines Inc. has the highest load factor at 20%.
-Southwest Airlines Co. and US Airways Inc. follow closely with load factors of 19% and 11%, respectively.
+      The dashboard shows the top carriers based on load factor,
+      Delta Air Lines Inc. has the highest load factor at 20%,
+      Southwest Airlines Co. and US Airways Inc. follow closely with load factors of 19% and 11%, respectively.
 
-Load Factor by Day Type:
+- Load Factor by Day Type:
 
-Weekdays have a higher load factor (71.17%) compared to weekends (28.83%).
+      Weekdays have a higher load factor (71.17%) compared to weekends (28.83%).
 
-Year-over-Year (YOY) Change in Load Factor:
+- Year-over-Year (YOY) Change in Load Factor:
 
-The YOY change in load factor shows a fluctuating trend, with both positive and negative changes.
-The highest positive change is 7.42% in 2010.
-The largest negative change is -3.15% in 2012.
+      The YOY change in load factor shows a fluctuating trend, with both positive and negative changes.
+      The highest positive change is 7.42% in 2010.
+      The largest negative change is -3.15% in 2012.
 
-Potential Areas for Improvement:
+# Potential Areas for Improvement:
 
 Increase load factor during off-peak seasons: The airline can focus on strategies to increase demand during periods with lower load factors. This could involve offering promotional fares, targeted marketing campaigns, or partnerships with travel agencies.
 
@@ -98,14 +98,14 @@ Optimize flight schedules: By analyzing passenger demand patterns, the airline c
 Improve customer experience: Providing excellent customer service can lead to repeat business and higher load factors. The airline can focus on areas such as on-time performance, baggage handling, and customer support.
 
 # Flight Operations Dashboard
-- Step 6: 
-Bar chart: Top 10 Carrier name by Passengers Preferences.
+Step 6: 
+- Bar chart: Top 10 Carrier name by Passengers Preferences.
 
-Bar chart: Top Routes Based on No. of Flights.
+- Bar chart: Top Routes Based on No. of Flights.
 
-Bar chart: No. of Flights on Distance Groups.
+- Bar chart: No. of Flights on Distance Groups.
 
-Bar chart: Flights by Region.
+- Bar chart: Flights by Region.
 
 Snap of Flight Operations Dashboard,
 
@@ -113,31 +113,31 @@ Snap of Flight Operations Dashboard,
 
 # Insights
 
-Overall Operations:
+- Overall Operations:
 
-The airline operates a total of 207 airlines with 106 routes.
-It has a total seat capacity of 244 million and covers a total distance of 82 million.
+      The airline operates a total of 207 airlines with 106 routes,
+      It has a total seat capacity of 244 million and covers a   total distance of 82 million.
 
-Top Carriers by Passenger Preference:
+- Top Carriers by Passenger Preference:
 
-Delta Air Lines is the most preferred carrier, followed by Southwest Airlines and Federal Express.
+      Delta Air Lines is the most preferred carrier, followed by Southwest Airlines and Federal Express.
 
-Top Routes Based on Number of Flights:
+- Top Routes Based on Number of Flights:
 
-The route with the highest number of flights is Chicago, IL - Detroit, MI with 95 flights.
-Other top routes include Washington, DC - New York, NY, Charlotte, NC - Atlanta, GA, and Chicago, IL - Atlanta, GA.
+      The route with the highest number of flights is Chicago, IL - Detroit, MI with 95 flights.
+      Other top routes include Washington, DC - New York, NY, Charlotte, NC - Atlanta, GA, and Chicago, IL - Atlanta, GA.
 
-Number of Flights by Distance Group:
+- Number of Flights by Distance Group:
 
-The majority of flights are short distance, followed by medium distance.
-There are a relatively small number of long-distance and very long-distance flights.
+      The majority of flights are short distance, followed by medium distance.
+      There are a relatively small number of long-distance and very long-distance flights.
 
-Flights by Region:
+- Flights by Region:
 
-The airline operates primarily in the domestic region, followed by Latin America.
-International, Pacific, and Atlantic flights account for a smaller portion of the total.
+      The airline operates primarily in the domestic region, followed by Latin America.
+      International, Pacific, and Atlantic flights account for a smaller portion of the total.
 
-Potential Areas for Improvement:
+# Potential Areas for Improvement:
 
 Expand long-Distance routes: The airline could consider expanding its long-Distance routes to tap into new markets and increase revenue.
 
