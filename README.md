@@ -57,7 +57,7 @@ Step 5 :
 
 Snap of Load Factor Analysis Dashboard,
 
-![LF_Dashboard](https://github.com/user-attachments/assets/b59b10cb-18a6-45ba-a150-683e580d1fc9)
+![LoadFactor](https://github.com/user-attachments/assets/08868257-6c54-4839-ae1c-ebb88fa56b7d)
 
 # Insights
 
